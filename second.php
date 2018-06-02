@@ -8,3 +8,4 @@
 
 $user = 'User';
 $company = 'LoftSchool';
+$error = 'error';
