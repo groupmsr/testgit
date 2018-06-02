@@ -7,3 +7,4 @@
  */
 
 $user = 'User';
+$company = 'LoftSchool';
