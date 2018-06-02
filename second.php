@@ -8,3 +8,4 @@
 
 $user = 'User';
 $company = 'LoftSchool';
+$email = 'test@google.com';
